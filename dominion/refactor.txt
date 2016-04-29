@@ -1,0 +1,12 @@
+Kathryn Maule
+CS 362 Spring 2016
+Assignment 1
+
+Noted Changes:
+
+In this assignment we were asked to pick at least 5 cards and change them so that they
+were implemented in their own functions rather than within the switch statement.
+I figured it may be helpful over all to move all implementation of the cards into their own functions.
+So I did, I then placed their implementations into a file called "cards.h" and #included them into
+dominion.c.
+

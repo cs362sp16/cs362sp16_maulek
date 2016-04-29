@@ -71,10 +71,11 @@ myTest:
 	./unittest2 >> unittestresult.out
 	./unittest3 >> unittestresult.out
 	./unittest4 >> unittestresult.out
-	gcov unittest1 >> unittestresult.out
-	gcov unittest2 >> unittestresult.out
-	gcov unittest3 >> unittestresult.out
-	gcov unittest4 >> unittestresult.out
+	./cardtest1 >> unittestresult.out
+	./cardtest2 >> unittestresult.out
+	./cardtest3 >> unittestresult.out
+	gcov dominion.c >> unittestresult.out
+	cat dominion.c.gcov >> unittestresult.out
 
 interface.o: interface.h interface.c
 	gcc -c interface.c -g  $(CFLAGS)

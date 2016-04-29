@@ -1,0 +1,24 @@
+----------Testing Buy Card Function----------
+Successfully bought sea_hag
+----------Testing Initialize Game Function----------
+Successfully created game
+----------Testing Whose Turn Function----------
+Successfully tested Whose Turn Function
+----------Testing Is Game Over Function----------
+Successfully Tested Is Game Over  Function
+File 'unittest1.c'
+Lines executed:87.50% of 16
+Creating 'unittest1.c.gcov'
+
+File 'unittest2.c'
+Lines executed:83.33% of 12
+Creating 'unittest2.c.gcov'
+
+File 'unittest3.c'
+Lines executed:92.31% of 13
+Creating 'unittest3.c.gcov'
+
+File 'unittest4.c'
+Lines executed:84.62% of 13
+Creating 'unittest4.c.gcov'
+

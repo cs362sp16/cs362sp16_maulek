@@ -1,0 +1,2 @@
+Coverage was pretty high with all of my unittests. I didn't find any bugs however with my tests.
+This could be because my testing was not well written or there were no bugs in that particular function
