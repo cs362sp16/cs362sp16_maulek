@@ -1,0 +1,12 @@
+Running Random Card Test for Gardens
+Test Completed succesfully
+File 'randomtestcard1.c'
+Lines executed:82.61% of 23
+Creating 'randomtestcard1.c.gcov'
+
+Running Random Card Test for Embargo
+Test Completed succesfully
+File 'randomtestcard2.c'
+Lines executed:81.82% of 22
+Creating 'randomtestcard2.c.gcov'
+

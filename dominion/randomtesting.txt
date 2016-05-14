@@ -1,0 +1,11 @@
+It was mostly straightforward to run my randomtesters. They each called the appropriate
+card with cardeffect and then checked the output against a successful run of each card.
+The coverage on the cards however could not achieve full 100% because that would mean I would
+have to take out my check statements. Meaning because each card executed successfully my
+fail statements while checked, never executed and therefore never ran. This was
+the only code that I failed to cover. The unit tests had better coverage, I believe
+this was because it had more to set up and checking for failing cases were rather
+small. I also believe my unit tests had better fault detection. It was easier to determin
+what would go wrong in my unit tests versus my random card tests which probably needed more
+things to set up to test it fully. What I mean is that my randomcardtests and randomtestadventure
+was probably weak and could definetely use improvement.
