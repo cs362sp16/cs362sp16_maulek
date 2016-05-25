@@ -1,0 +1,970 @@
+*** ../maulek/diff_one.txt	2016-05-24 22:54:39.000502000 -0700
+--- ../edwardrh/dominion/diff_two.txt	2016-05-24 22:54:40.000013000 -0700
+***************
+*** 810,816 ****
+  	Playing action card
+  	-----Buy Phase-----
+  	Buying Kingdom Card . . . 
+! 	1: bought silver
+  Player 2: endTurn
+  
+  
+--- 810,816 ----
+  	Playing action card
+  	-----Buy Phase-----
+  	Buying Kingdom Card . . . 
+! 	1: bought gold
+  Player 2: endTurn
+  
+  
+***************
+*** 835,840 ****
+--- 835,863 ----
+  	Playing action card
+  	-----Buy Phase-----
+  	Buying Kingdom Card . . . 
++ Player 2: endTurn
++ 
++ 
++ Player 0:
++ 	-----Action Phase-----
++ 	-----Buy Phase-----
++ 	Buying Kingdom Card . . . 
++ Player 0: endTurn
++ 
++ 
++ Player 1:
++ 	-----Action Phase-----
++ 	Playing action card
++ 	-----Buy Phase-----
++ 	Buying Kingdom Card . . . 
++ Player 1: endTurn
++ 
++ 
++ Player 2:
++ 	-----Action Phase-----
++ 	Playing action card
++ 	-----Buy Phase-----
++ 	Buying Kingdom Card . . . 
+  	1: bought gold
+  Player 2: endTurn
+  
+***************
+*** 851,857 ****
+  	Playing action card
+  	-----Buy Phase-----
+  	Buying Kingdom Card . . . 
+- 	1: bought silver
+  Player 1: endTurn
+  
+  
+--- 874,879 ----
+***************
+*** 875,880 ****
+--- 897,903 ----
+  	Playing action card
+  	-----Buy Phase-----
+  	Buying Kingdom Card . . . 
++ 	1: bought gold
+  Player 1: endTurn
+  
+  
+***************
+*** 883,889 ****
+  	Playing action card
+  	-----Buy Phase-----
+  	Buying Kingdom Card . . . 
+! 	1: bought silver
+  Player 2: endTurn
+  
+  
+--- 906,912 ----
+  	Playing action card
+  	-----Buy Phase-----
+  	Buying Kingdom Card . . . 
+! 	1: bought gold
+  Player 2: endTurn
+  
+  
+***************
+*** 899,904 ****
+--- 922,928 ----
+  	Playing action card
+  	-----Buy Phase-----
+  	Buying Kingdom Card . . . 
++ 	1: bought silver
+  Player 1: endTurn
+  
+  
+***************
+*** 923,929 ****
+  	Playing action card
+  	-----Buy Phase-----
+  	Buying Kingdom Card . . . 
+- 	1: bought gold
+  Player 1: endTurn
+  
+  
+--- 947,952 ----
+***************
+*** 932,937 ****
+--- 955,961 ----
+  	Playing action card
+  	-----Buy Phase-----
+  	Buying Kingdom Card . . . 
++ 	1: bought silver
+  Player 2: endTurn
+  
+  
+***************
+*** 956,962 ****
+  	Playing action card
+  	-----Buy Phase-----
+  	Buying Kingdom Card . . . 
+! 	1: bought silver
+  Player 2: endTurn
+  
+  
+--- 980,986 ----
+  	Playing action card
+  	-----Buy Phase-----
+  	Buying Kingdom Card . . . 
+! 	1: bought gold
+  Player 2: endTurn
+  
+  
+***************
+*** 972,978 ****
+  	Playing action card
+  	-----Buy Phase-----
+  	Buying Kingdom Card . . . 
+- 	1: bought silver
+  Player 1: endTurn
+  
+  
+--- 996,1001 ----
+***************
+*** 1021,1026 ****
+--- 1044,1050 ----
+  	Playing action card
+  	-----Buy Phase-----
+  	Buying Kingdom Card . . . 
++ 	1: bought silver
+  Player 1: endTurn
+  
+  
+***************
+*** 1029,1035 ****
+  	Playing action card
+  	-----Buy Phase-----
+  	Buying Kingdom Card . . . 
+- 	1: bought silver
+  Player 2: endTurn
+  
+  
+--- 1053,1058 ----
+***************
+*** 1045,1050 ****
+--- 1068,1074 ----
+  	Playing action card
+  	-----Buy Phase-----
+  	Buying Kingdom Card . . . 
++ 	1: bought silver
+  Player 1: endTurn
+  
+  
+***************
+*** 1053,1059 ****
+  	Playing action card
+  	-----Buy Phase-----
+  	Buying Kingdom Card . . . 
+! 	1: bought silver
+  Player 2: endTurn
+  
+  
+--- 1077,1083 ----
+  	Playing action card
+  	-----Buy Phase-----
+  	Buying Kingdom Card . . . 
+! 	1: bought gold
+  Player 2: endTurn
+  
+  
+***************
+*** 1069,1075 ****
+  	Playing action card
+  	-----Buy Phase-----
+  	Buying Kingdom Card . . . 
+! 	1: bought gold
+  Player 1: endTurn
+  
+  
+--- 1093,1099 ----
+  	Playing action card
+  	-----Buy Phase-----
+  	Buying Kingdom Card . . . 
+! 	1: bought silver
+  Player 1: endTurn
+  
+  
+***************
+*** 1078,1084 ****
+--- 1102,1131 ----
+  	Playing action card
+  	-----Buy Phase-----
+  	Buying Kingdom Card . . . 
++ Player 2: endTurn
++ 
++ 
++ Player 0:
++ 	-----Action Phase-----
++ 	-----Buy Phase-----
++ 	Buying Kingdom Card . . . 
++ Player 0: endTurn
++ 
++ 
++ Player 1:
++ 	-----Action Phase-----
++ 	Playing action card
++ 	-----Buy Phase-----
++ 	Buying Kingdom Card . . . 
+  	1: bought silver
++ Player 1: endTurn
++ 
++ 
++ Player 2:
++ 	-----Action Phase-----
++ 	Playing action card
++ 	-----Buy Phase-----
++ 	Buying Kingdom Card . . . 
+  Player 2: endTurn
+  
+  
+***************
+*** 1094,1100 ****
+  	Playing action card
+  	-----Buy Phase-----
+  	Buying Kingdom Card . . . 
+! 	1: bought gold
+  Player 1: endTurn
+  
+  
+--- 1141,1147 ----
+  	Playing action card
+  	-----Buy Phase-----
+  	Buying Kingdom Card . . . 
+! 	1: bought silver
+  Player 1: endTurn
+  
+  
+***************
+*** 1118,1123 ****
+--- 1165,1171 ----
+  	Playing action card
+  	-----Buy Phase-----
+  	Buying Kingdom Card . . . 
++ 	1: bought silver
+  Player 1: endTurn
+  
+  
+***************
+*** 1126,1132 ****
+  	Playing action card
+  	-----Buy Phase-----
+  	Buying Kingdom Card . . . 
+- 	1: bought gold
+  Player 2: endTurn
+  
+  
+--- 1174,1179 ----
+***************
+*** 1151,1157 ****
+  	Playing action card
+  	-----Buy Phase-----
+  	Buying Kingdom Card . . . 
+- 	1: bought province
+  Player 2: endTurn
+  
+  
+--- 1198,1203 ----
+***************
+*** 1175,1181 ****
+  	Playing action card
+  	-----Buy Phase-----
+  	Buying Kingdom Card . . . 
+- 	1: bought silver
+  Player 2: endTurn
+  
+  
+--- 1221,1226 ----
+***************
+*** 1215,1230 ****
+  	Playing action card
+  	-----Buy Phase-----
+  	Buying Kingdom Card . . . 
+- 	1: bought silver
+  Player 1: endTurn
+  
+  
+  Player 2:
+  	-----Action Phase-----
+  	Playing action card
+  	-----Buy Phase-----
+  	Buying Kingdom Card . . . 
+! 	1: bought gold
+  Player 2: endTurn
+  
+  
+--- 1260,1294 ----
+  	Playing action card
+  	-----Buy Phase-----
+  	Buying Kingdom Card . . . 
+  Player 1: endTurn
+  
+  
+  Player 2:
+  	-----Action Phase-----
++ 	-----Buy Phase-----
++ 	Buying Kingdom Card . . . 
++ Player 2: endTurn
++ 
++ 
++ Player 0:
++ 	-----Action Phase-----
++ 	-----Buy Phase-----
++ 	Buying Kingdom Card . . . 
++ Player 0: endTurn
++ 
++ 
++ Player 1:
++ 	-----Action Phase-----
+  	Playing action card
+  	-----Buy Phase-----
+  	Buying Kingdom Card . . . 
+! Player 1: endTurn
+! 
+! 
+! Player 2:
+! 	-----Action Phase-----
+! 	-----Buy Phase-----
+! 	Buying Kingdom Card . . . 
+  Player 2: endTurn
+  
+  
+***************
+*** 1246,1255 ****
+  
+  Player 2:
+  	-----Action Phase-----
+  	Playing action card
+  	-----Buy Phase-----
+  	Buying Kingdom Card . . . 
+! 	1: bought silver
+  Player 2: endTurn
+  
+  
+--- 1310,1340 ----
+  
+  Player 2:
+  	-----Action Phase-----
++ 	-----Buy Phase-----
++ 	Buying Kingdom Card . . . 
++ Player 2: endTurn
++ 
++ 
++ Player 0:
++ 	-----Action Phase-----
++ 	-----Buy Phase-----
++ 	Buying Kingdom Card . . . 
++ Player 0: endTurn
++ 
++ 
++ Player 1:
++ 	-----Action Phase-----
+  	Playing action card
+  	-----Buy Phase-----
+  	Buying Kingdom Card . . . 
+! 	1: bought gold
+! Player 1: endTurn
+! 
+! 
+! Player 2:
+! 	-----Action Phase-----
+! 	-----Buy Phase-----
+! 	Buying Kingdom Card . . . 
+  Player 2: endTurn
+  
+  
+***************
+*** 1262,1279 ****
+  
+  Player 1:
+  	-----Action Phase-----
+  	-----Buy Phase-----
+  	Buying Kingdom Card . . . 
+! 	1: bought province
+  Player 1: endTurn
+  
+  
+  Player 2:
+  	-----Action Phase-----
+  	Playing action card
+  	-----Buy Phase-----
+  	Buying Kingdom Card . . . 
+  	1: bought silver
+  Player 2: endTurn
+  
+  
+--- 1347,1386 ----
+  
+  Player 1:
+  	-----Action Phase-----
++ 	Playing action card
+  	-----Buy Phase-----
+  	Buying Kingdom Card . . . 
+! 	1: bought gold
+  Player 1: endTurn
+  
+  
+  Player 2:
+  	-----Action Phase-----
++ 	-----Buy Phase-----
++ 	Buying Kingdom Card . . . 
++ Player 2: endTurn
++ 
++ 
++ Player 0:
++ 	-----Action Phase-----
++ 	-----Buy Phase-----
++ 	Buying Kingdom Card . . . 
++ Player 0: endTurn
++ 
++ 
++ Player 1:
++ 	-----Action Phase-----
+  	Playing action card
+  	-----Buy Phase-----
+  	Buying Kingdom Card . . . 
+  	1: bought silver
++ Player 1: endTurn
++ 
++ 
++ Player 2:
++ 	-----Action Phase-----
++ 	-----Buy Phase-----
++ 	Buying Kingdom Card . . . 
+  Player 2: endTurn
+  
+  
+***************
+*** 1289,1304 ****
+  	Playing action card
+  	-----Buy Phase-----
+  	Buying Kingdom Card . . . 
+- 	1: bought silver
+  Player 1: endTurn
+  
+  
+  Player 2:
+  	-----Action Phase-----
+  	Playing action card
+  	-----Buy Phase-----
+  	Buying Kingdom Card . . . 
+  	1: bought silver
+  Player 2: endTurn
+  
+  
+--- 1396,1431 ----
+  	Playing action card
+  	-----Buy Phase-----
+  	Buying Kingdom Card . . . 
+  Player 1: endTurn
+  
+  
+  Player 2:
+  	-----Action Phase-----
++ 	-----Buy Phase-----
++ 	Buying Kingdom Card . . . 
++ Player 2: endTurn
++ 
++ 
++ Player 0:
++ 	-----Action Phase-----
++ 	-----Buy Phase-----
++ 	Buying Kingdom Card . . . 
++ Player 0: endTurn
++ 
++ 
++ Player 1:
++ 	-----Action Phase-----
+  	Playing action card
+  	-----Buy Phase-----
+  	Buying Kingdom Card . . . 
+  	1: bought silver
++ Player 1: endTurn
++ 
++ 
++ Player 2:
++ 	-----Action Phase-----
++ 	-----Buy Phase-----
++ 	Buying Kingdom Card . . . 
+  Player 2: endTurn
+  
+  
+***************
+*** 1314,1328 ****
+  	Playing action card
+  	-----Buy Phase-----
+  	Buying Kingdom Card . . . 
+  Player 1: endTurn
+  
+  
+  Player 2:
+  	-----Action Phase-----
+  	Playing action card
+  	-----Buy Phase-----
+  	Buying Kingdom Card . . . 
+! 	1: bought gold
+  Player 2: endTurn
+  
+  
+--- 1441,1476 ----
+  	Playing action card
+  	-----Buy Phase-----
+  	Buying Kingdom Card . . . 
++ 	1: bought silver
+  Player 1: endTurn
+  
+  
+  Player 2:
+  	-----Action Phase-----
++ 	-----Buy Phase-----
++ 	Buying Kingdom Card . . . 
++ Player 2: endTurn
++ 
++ 
++ Player 0:
++ 	-----Action Phase-----
++ 	-----Buy Phase-----
++ 	Buying Kingdom Card . . . 
++ Player 0: endTurn
++ 
++ 
++ Player 1:
++ 	-----Action Phase-----
+  	Playing action card
+  	-----Buy Phase-----
+  	Buying Kingdom Card . . . 
+! Player 1: endTurn
+! 
+! 
+! Player 2:
+! 	-----Action Phase-----
+! 	-----Buy Phase-----
+! 	Buying Kingdom Card . . . 
+  Player 2: endTurn
+  
+  
+***************
+*** 1344,1353 ****
+  
+  Player 2:
+  	-----Action Phase-----
+  	Playing action card
+  	-----Buy Phase-----
+  	Buying Kingdom Card . . . 
+! 	1: bought gold
+  Player 2: endTurn
+  
+  
+--- 1492,1522 ----
+  
+  Player 2:
+  	-----Action Phase-----
++ 	-----Buy Phase-----
++ 	Buying Kingdom Card . . . 
++ Player 2: endTurn
++ 
++ 
++ Player 0:
++ 	-----Action Phase-----
++ 	-----Buy Phase-----
++ 	Buying Kingdom Card . . . 
++ Player 0: endTurn
++ 
++ 
++ Player 1:
++ 	-----Action Phase-----
+  	Playing action card
+  	-----Buy Phase-----
+  	Buying Kingdom Card . . . 
+! 	1: bought silver
+! Player 1: endTurn
+! 
+! 
+! Player 2:
+! 	-----Action Phase-----
+! 	-----Buy Phase-----
+! 	Buying Kingdom Card . . . 
+  Player 2: endTurn
+  
+  
+***************
+*** 1369,1378 ****
+--- 1538,1568 ----
+  
+  Player 2:
+  	-----Action Phase-----
++ 	-----Buy Phase-----
++ 	Buying Kingdom Card . . . 
++ Player 2: endTurn
++ 
++ 
++ Player 0:
++ 	-----Action Phase-----
++ 	-----Buy Phase-----
++ 	Buying Kingdom Card . . . 
++ Player 0: endTurn
++ 
++ 
++ Player 1:
++ 	-----Action Phase-----
+  	Playing action card
+  	-----Buy Phase-----
+  	Buying Kingdom Card . . . 
+  	1: bought silver
++ Player 1: endTurn
++ 
++ 
++ Player 2:
++ 	-----Action Phase-----
++ 	-----Buy Phase-----
++ 	Buying Kingdom Card . . . 
+  Player 2: endTurn
+  
+  
+***************
+*** 1393,1402 ****
+--- 1583,1613 ----
+  
+  Player 2:
+  	-----Action Phase-----
++ 	-----Buy Phase-----
++ 	Buying Kingdom Card . . . 
++ Player 2: endTurn
++ 
++ 
++ Player 0:
++ 	-----Action Phase-----
++ 	-----Buy Phase-----
++ 	Buying Kingdom Card . . . 
++ Player 0: endTurn
++ 
++ 
++ Player 1:
++ 	-----Action Phase-----
+  	Playing action card
+  	-----Buy Phase-----
+  	Buying Kingdom Card . . . 
+  	1: bought province
++ Player 1: endTurn
++ 
++ 
++ Player 2:
++ 	-----Action Phase-----
++ 	-----Buy Phase-----
++ 	Buying Kingdom Card . . . 
+  Player 2: endTurn
+  
+  
+***************
+*** 1412,1427 ****
+  	Playing action card
+  	-----Buy Phase-----
+  	Buying Kingdom Card . . . 
+- 	1: bought gold
+  Player 1: endTurn
+  
+  
+  Player 2:
+  	-----Action Phase-----
+  	Playing action card
+  	-----Buy Phase-----
+  	Buying Kingdom Card . . . 
+  	1: bought gold
+  Player 2: endTurn
+  
+  
+--- 1623,1658 ----
+  	Playing action card
+  	-----Buy Phase-----
+  	Buying Kingdom Card . . . 
+  Player 1: endTurn
+  
+  
+  Player 2:
+  	-----Action Phase-----
++ 	-----Buy Phase-----
++ 	Buying Kingdom Card . . . 
++ Player 2: endTurn
++ 
++ 
++ Player 0:
++ 	-----Action Phase-----
++ 	-----Buy Phase-----
++ 	Buying Kingdom Card . . . 
++ Player 0: endTurn
++ 
++ 
++ Player 1:
++ 	-----Action Phase-----
+  	Playing action card
+  	-----Buy Phase-----
+  	Buying Kingdom Card . . . 
+  	1: bought gold
++ Player 1: endTurn
++ 
++ 
++ Player 2:
++ 	-----Action Phase-----
++ 	-----Buy Phase-----
++ 	Buying Kingdom Card . . . 
+  Player 2: endTurn
+  
+  
+***************
+*** 1443,1452 ****
+--- 1674,1749 ----
+  
+  Player 2:
+  	-----Action Phase-----
++ 	-----Buy Phase-----
++ 	Buying Kingdom Card . . . 
++ Player 2: endTurn
++ 
++ 
++ Player 0:
++ 	-----Action Phase-----
++ 	-----Buy Phase-----
++ 	Buying Kingdom Card . . . 
++ Player 0: endTurn
++ 
++ 
++ Player 1:
++ 	-----Action Phase-----
++ 	Playing action card
++ 	-----Buy Phase-----
++ 	Buying Kingdom Card . . . 
++ Player 1: endTurn
++ 
++ 
++ Player 2:
++ 	-----Action Phase-----
++ 	-----Buy Phase-----
++ 	Buying Kingdom Card . . . 
++ Player 2: endTurn
++ 
++ 
++ Player 0:
++ 	-----Action Phase-----
++ 	-----Buy Phase-----
++ 	Buying Kingdom Card . . . 
++ Player 0: endTurn
++ 
++ 
++ Player 1:
++ 	-----Action Phase-----
++ 	Playing action card
++ 	-----Buy Phase-----
++ 	Buying Kingdom Card . . . 
++ 	1: bought gold
++ Player 1: endTurn
++ 
++ 
++ Player 2:
++ 	-----Action Phase-----
++ 	-----Buy Phase-----
++ 	Buying Kingdom Card . . . 
++ Player 2: endTurn
++ 
++ 
++ Player 0:
++ 	-----Action Phase-----
++ 	-----Buy Phase-----
++ 	Buying Kingdom Card . . . 
++ Player 0: endTurn
++ 
++ 
++ Player 1:
++ 	-----Action Phase-----
+  	Playing action card
+  	-----Buy Phase-----
+  	Buying Kingdom Card . . . 
+  	1: bought silver
++ Player 1: endTurn
++ 
++ 
++ Player 2:
++ 	-----Action Phase-----
++ 	-----Buy Phase-----
++ 	Buying Kingdom Card . . . 
+  Player 2: endTurn
+  
+  
+***************
+*** 1468,1477 ****
+--- 1765,1795 ----
+  
+  Player 2:
+  	-----Action Phase-----
++ 	-----Buy Phase-----
++ 	Buying Kingdom Card . . . 
++ Player 2: endTurn
++ 
++ 
++ Player 0:
++ 	-----Action Phase-----
++ 	-----Buy Phase-----
++ 	Buying Kingdom Card . . . 
++ Player 0: endTurn
++ 
++ 
++ Player 1:
++ 	-----Action Phase-----
+  	Playing action card
+  	-----Buy Phase-----
+  	Buying Kingdom Card . . . 
+  	1: bought gold
++ Player 1: endTurn
++ 
++ 
++ Player 2:
++ 	-----Action Phase-----
++ 	-----Buy Phase-----
++ 	Buying Kingdom Card . . . 
+  Player 2: endTurn
+  
+  
+***************
+*** 1487,1502 ****
+  	Playing action card
+  	-----Buy Phase-----
+  	Buying Kingdom Card . . . 
+! 	1: bought gold
+  Player 1: endTurn
+  
+  
+  Player 2:
+  	-----Action Phase-----
+  	Playing action card
+  	-----Buy Phase-----
+  	Buying Kingdom Card . . . 
+! 	1: bought gold
+  Player 2: endTurn
+  
+  
+--- 1805,1841 ----
+  	Playing action card
+  	-----Buy Phase-----
+  	Buying Kingdom Card . . . 
+! 	1: bought silver
+  Player 1: endTurn
+  
+  
+  Player 2:
+  	-----Action Phase-----
++ 	-----Buy Phase-----
++ 	Buying Kingdom Card . . . 
++ Player 2: endTurn
++ 
++ 
++ Player 0:
++ 	-----Action Phase-----
++ 	-----Buy Phase-----
++ 	Buying Kingdom Card . . . 
++ Player 0: endTurn
++ 
++ 
++ Player 1:
++ 	-----Action Phase-----
+  	Playing action card
+  	-----Buy Phase-----
+  	Buying Kingdom Card . . . 
+! 	1: bought silver
+! Player 1: endTurn
+! 
+! 
+! Player 2:
+! 	-----Action Phase-----
+! 	-----Buy Phase-----
+! 	Buying Kingdom Card . . . 
+  Player 2: endTurn
+  
+  
+***************
+*** 1518,1527 ****
+  
+  Player 2:
+  	-----Action Phase-----
+  	Playing action card
+  	-----Buy Phase-----
+  	Buying Kingdom Card . . . 
+! 	1: bought province
+  Player 2: endTurn
+  
+  
+--- 1857,1887 ----
+  
+  Player 2:
+  	-----Action Phase-----
++ 	-----Buy Phase-----
++ 	Buying Kingdom Card . . . 
++ Player 2: endTurn
++ 
++ 
++ Player 0:
++ 	-----Action Phase-----
++ 	-----Buy Phase-----
++ 	Buying Kingdom Card . . . 
++ Player 0: endTurn
++ 
++ 
++ Player 1:
++ 	-----Action Phase-----
+  	Playing action card
+  	-----Buy Phase-----
+  	Buying Kingdom Card . . . 
+! 	1: bought silver
+! Player 1: endTurn
+! 
+! 
+! Player 2:
+! 	-----Action Phase-----
+! 	-----Buy Phase-----
+! 	Buying Kingdom Card . . . 
+  Player 2: endTurn
+  
+  
+***************
+*** 1537,1546 ****
+  	Playing action card
+  	-----Buy Phase-----
+  	Buying Kingdom Card . . . 
+! 	1: bought gold
+  Player 1: endTurn
+  
+  
+! -------Score For Player 0 is -4
+! -------Score For Player 1 is 0
+  -------Score For Player 2 is 0
+--- 1897,1906 ----
+  	Playing action card
+  	-----Buy Phase-----
+  	Buying Kingdom Card . . . 
+! 	1: bought silver
+  Player 1: endTurn
+  
+  
+! -------Score For Player 0 is 0
+! -------Score For Player 1 is 3
+  -------Score For Player 2 is 0

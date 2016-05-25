@@ -1,0 +1,1546 @@
+Player 0:
+	-----Action Phase-----
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought silver
+Player 0: endTurn
+
+
+Player 1:
+	-----Action Phase-----
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought silver
+Player 1: endTurn
+
+
+Player 2:
+	-----Action Phase-----
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought silver
+Player 2: endTurn
+
+
+Player 0:
+	-----Action Phase-----
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought silver
+Player 0: endTurn
+
+
+Player 1:
+	-----Action Phase-----
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought silver
+Player 1: endTurn
+
+
+Player 2:
+	-----Action Phase-----
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought silver
+Player 2: endTurn
+
+
+Player 0:
+	-----Action Phase-----
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought silver
+Player 0: endTurn
+
+
+Player 1:
+	-----Action Phase-----
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought silver
+Player 1: endTurn
+
+
+Player 2:
+	-----Action Phase-----
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought gold
+Player 2: endTurn
+
+
+Player 0:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought silver
+Player 0: endTurn
+
+
+Player 1:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought silver
+Player 1: endTurn
+
+
+Player 2:
+	-----Action Phase-----
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought silver
+Player 2: endTurn
+
+
+Player 0:
+	-----Action Phase-----
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought silver
+Player 0: endTurn
+
+
+Player 1:
+	-----Action Phase-----
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought silver
+Player 1: endTurn
+
+
+Player 2:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought silver
+Player 2: endTurn
+
+
+Player 0:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought silver
+Player 0: endTurn
+
+
+Player 1:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought silver
+Player 1: endTurn
+
+
+Player 2:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought silver
+Player 2: endTurn
+
+
+Player 0:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 0: endTurn
+
+
+Player 1:
+	-----Action Phase-----
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought gold
+Player 1: endTurn
+
+
+Player 2:
+	-----Action Phase-----
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought gold
+Player 2: endTurn
+
+
+Player 0:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought silver
+Player 0: endTurn
+
+
+Player 1:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought silver
+Player 1: endTurn
+
+
+Player 2:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought silver
+Player 2: endTurn
+
+
+Player 0:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 0: endTurn
+
+
+Player 1:
+	-----Action Phase-----
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought gold
+Player 1: endTurn
+
+
+Player 2:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought silver
+Player 2: endTurn
+
+
+Player 0:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 0: endTurn
+
+
+Player 1:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought silver
+Player 1: endTurn
+
+
+Player 2:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought silver
+Player 2: endTurn
+
+
+Player 0:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 0: endTurn
+
+
+Player 1:
+	-----Action Phase-----
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought province
+Player 1: endTurn
+
+
+Player 2:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought silver
+Player 2: endTurn
+
+
+Player 0:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 0: endTurn
+
+
+Player 1:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought silver
+Player 1: endTurn
+
+
+Player 2:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought silver
+Player 2: endTurn
+
+
+Player 0:
+	-----Action Phase-----
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 0: endTurn
+
+
+Player 1:
+	-----Action Phase-----
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought gold
+Player 1: endTurn
+
+
+Player 2:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought silver
+Player 2: endTurn
+
+
+Player 0:
+	-----Action Phase-----
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 0: endTurn
+
+
+Player 1:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought gold
+Player 1: endTurn
+
+
+Player 2:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought silver
+Player 2: endTurn
+
+
+Player 0:
+	-----Action Phase-----
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 0: endTurn
+
+
+Player 1:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought silver
+Player 1: endTurn
+
+
+Player 2:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought silver
+Player 2: endTurn
+
+
+Player 0:
+	-----Action Phase-----
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 0: endTurn
+
+
+Player 1:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 1: endTurn
+
+
+Player 2:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought silver
+Player 2: endTurn
+
+
+Player 0:
+	-----Action Phase-----
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 0: endTurn
+
+
+Player 1:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought silver
+Player 1: endTurn
+
+
+Player 2:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought gold
+Player 2: endTurn
+
+
+Player 0:
+	-----Action Phase-----
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 0: endTurn
+
+
+Player 1:
+	-----Action Phase-----
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought province
+Player 1: endTurn
+
+
+Player 2:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 2: endTurn
+
+
+Player 0:
+	-----Action Phase-----
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 0: endTurn
+
+
+Player 1:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 1: endTurn
+
+
+Player 2:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought silver
+Player 2: endTurn
+
+
+Player 0:
+	-----Action Phase-----
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 0: endTurn
+
+
+Player 1:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought silver
+Player 1: endTurn
+
+
+Player 2:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought silver
+Player 2: endTurn
+
+
+Player 0:
+	-----Action Phase-----
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 0: endTurn
+
+
+Player 1:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought gold
+Player 1: endTurn
+
+
+Player 2:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 2: endTurn
+
+
+Player 0:
+	-----Action Phase-----
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 0: endTurn
+
+
+Player 1:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought silver
+Player 1: endTurn
+
+
+Player 2:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought silver
+Player 2: endTurn
+
+
+Player 0:
+	-----Action Phase-----
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 0: endTurn
+
+
+Player 1:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought silver
+Player 1: endTurn
+
+
+Player 2:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 2: endTurn
+
+
+Player 0:
+	-----Action Phase-----
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 0: endTurn
+
+
+Player 1:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought silver
+Player 1: endTurn
+
+
+Player 2:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought silver
+Player 2: endTurn
+
+
+Player 0:
+	-----Action Phase-----
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 0: endTurn
+
+
+Player 1:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought gold
+Player 1: endTurn
+
+
+Player 2:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 2: endTurn
+
+
+Player 0:
+	-----Action Phase-----
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 0: endTurn
+
+
+Player 1:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought silver
+Player 1: endTurn
+
+
+Player 2:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought gold
+Player 2: endTurn
+
+
+Player 0:
+	-----Action Phase-----
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 0: endTurn
+
+
+Player 1:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought silver
+Player 1: endTurn
+
+
+Player 2:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought silver
+Player 2: endTurn
+
+
+Player 0:
+	-----Action Phase-----
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 0: endTurn
+
+
+Player 1:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought gold
+Player 1: endTurn
+
+
+Player 2:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought silver
+Player 2: endTurn
+
+
+Player 0:
+	-----Action Phase-----
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 0: endTurn
+
+
+Player 1:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought silver
+Player 1: endTurn
+
+
+Player 2:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought silver
+Player 2: endTurn
+
+
+Player 0:
+	-----Action Phase-----
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 0: endTurn
+
+
+Player 1:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 1: endTurn
+
+
+Player 2:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought silver
+Player 2: endTurn
+
+
+Player 0:
+	-----Action Phase-----
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 0: endTurn
+
+
+Player 1:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 1: endTurn
+
+
+Player 2:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought silver
+Player 2: endTurn
+
+
+Player 0:
+	-----Action Phase-----
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 0: endTurn
+
+
+Player 1:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 1: endTurn
+
+
+Player 2:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought silver
+Player 2: endTurn
+
+
+Player 0:
+	-----Action Phase-----
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 0: endTurn
+
+
+Player 1:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 1: endTurn
+
+
+Player 2:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought silver
+Player 2: endTurn
+
+
+Player 0:
+	-----Action Phase-----
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 0: endTurn
+
+
+Player 1:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought silver
+Player 1: endTurn
+
+
+Player 2:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought gold
+Player 2: endTurn
+
+
+Player 0:
+	-----Action Phase-----
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 0: endTurn
+
+
+Player 1:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought silver
+Player 1: endTurn
+
+
+Player 2:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 2: endTurn
+
+
+Player 0:
+	-----Action Phase-----
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 0: endTurn
+
+
+Player 1:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 1: endTurn
+
+
+Player 2:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought silver
+Player 2: endTurn
+
+
+Player 0:
+	-----Action Phase-----
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 0: endTurn
+
+
+Player 1:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 1: endTurn
+
+
+Player 2:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought silver
+Player 2: endTurn
+
+
+Player 0:
+	-----Action Phase-----
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 0: endTurn
+
+
+Player 1:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought gold
+Player 1: endTurn
+
+
+Player 2:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 2: endTurn
+
+
+Player 0:
+	-----Action Phase-----
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 0: endTurn
+
+
+Player 1:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought silver
+Player 1: endTurn
+
+
+Player 2:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought silver
+Player 2: endTurn
+
+
+Player 0:
+	-----Action Phase-----
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 0: endTurn
+
+
+Player 1:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought silver
+Player 1: endTurn
+
+
+Player 2:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought silver
+Player 2: endTurn
+
+
+Player 0:
+	-----Action Phase-----
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 0: endTurn
+
+
+Player 1:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought silver
+Player 1: endTurn
+
+
+Player 2:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 2: endTurn
+
+
+Player 0:
+	-----Action Phase-----
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 0: endTurn
+
+
+Player 1:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 1: endTurn
+
+
+Player 2:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought silver
+Player 2: endTurn
+
+
+Player 0:
+	-----Action Phase-----
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 0: endTurn
+
+
+Player 1:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 1: endTurn
+
+
+Player 2:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought silver
+Player 2: endTurn
+
+
+Player 0:
+	-----Action Phase-----
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 0: endTurn
+
+
+Player 1:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought gold
+Player 1: endTurn
+
+
+Player 2:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought silver
+Player 2: endTurn
+
+
+Player 0:
+	-----Action Phase-----
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 0: endTurn
+
+
+Player 1:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought gold
+Player 1: endTurn
+
+
+Player 2:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 2: endTurn
+
+
+Player 0:
+	-----Action Phase-----
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 0: endTurn
+
+
+Player 1:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 1: endTurn
+
+
+Player 2:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought gold
+Player 2: endTurn
+
+
+Player 0:
+	-----Action Phase-----
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 0: endTurn
+
+
+Player 1:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought silver
+Player 1: endTurn
+
+
+Player 2:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought province
+Player 2: endTurn
+
+
+Player 0:
+	-----Action Phase-----
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 0: endTurn
+
+
+Player 1:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 1: endTurn
+
+
+Player 2:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought silver
+Player 2: endTurn
+
+
+Player 0:
+	-----Action Phase-----
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 0: endTurn
+
+
+Player 1:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought silver
+Player 1: endTurn
+
+
+Player 2:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 2: endTurn
+
+
+Player 0:
+	-----Action Phase-----
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 0: endTurn
+
+
+Player 1:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought silver
+Player 1: endTurn
+
+
+Player 2:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought gold
+Player 2: endTurn
+
+
+Player 0:
+	-----Action Phase-----
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 0: endTurn
+
+
+Player 1:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought silver
+Player 1: endTurn
+
+
+Player 2:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought silver
+Player 2: endTurn
+
+
+Player 0:
+	-----Action Phase-----
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 0: endTurn
+
+
+Player 1:
+	-----Action Phase-----
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought province
+Player 1: endTurn
+
+
+Player 2:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought silver
+Player 2: endTurn
+
+
+Player 0:
+	-----Action Phase-----
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 0: endTurn
+
+
+Player 1:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought silver
+Player 1: endTurn
+
+
+Player 2:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought silver
+Player 2: endTurn
+
+
+Player 0:
+	-----Action Phase-----
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 0: endTurn
+
+
+Player 1:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 1: endTurn
+
+
+Player 2:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought gold
+Player 2: endTurn
+
+
+Player 0:
+	-----Action Phase-----
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 0: endTurn
+
+
+Player 1:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought silver
+Player 1: endTurn
+
+
+Player 2:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought gold
+Player 2: endTurn
+
+
+Player 0:
+	-----Action Phase-----
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 0: endTurn
+
+
+Player 1:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought silver
+Player 1: endTurn
+
+
+Player 2:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought silver
+Player 2: endTurn
+
+
+Player 0:
+	-----Action Phase-----
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 0: endTurn
+
+
+Player 1:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 1: endTurn
+
+
+Player 2:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought province
+Player 2: endTurn
+
+
+Player 0:
+	-----Action Phase-----
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 0: endTurn
+
+
+Player 1:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought gold
+Player 1: endTurn
+
+
+Player 2:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought gold
+Player 2: endTurn
+
+
+Player 0:
+	-----Action Phase-----
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 0: endTurn
+
+
+Player 1:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought silver
+Player 1: endTurn
+
+
+Player 2:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought silver
+Player 2: endTurn
+
+
+Player 0:
+	-----Action Phase-----
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 0: endTurn
+
+
+Player 1:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought silver
+Player 1: endTurn
+
+
+Player 2:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought gold
+Player 2: endTurn
+
+
+Player 0:
+	-----Action Phase-----
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 0: endTurn
+
+
+Player 1:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought gold
+Player 1: endTurn
+
+
+Player 2:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought gold
+Player 2: endTurn
+
+
+Player 0:
+	-----Action Phase-----
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 0: endTurn
+
+
+Player 1:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought silver
+Player 1: endTurn
+
+
+Player 2:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought province
+Player 2: endTurn
+
+
+Player 0:
+	-----Action Phase-----
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+Player 0: endTurn
+
+
+Player 1:
+	-----Action Phase-----
+	Playing action card
+	-----Buy Phase-----
+	Buying Kingdom Card . . . 
+	1: bought gold
+Player 1: endTurn
+
+
+-------Score For Player 0 is -4
+-------Score For Player 1 is 0
+-------Score For Player 2 is 0

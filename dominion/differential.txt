@@ -1,0 +1,10 @@
+Author: Kathryn Maule
+Peer: Rhea Mae
+
+For this assignment I tested my testdominion.c code against Rhea Mae's dominion.c code.
+My test failed when I changed the seed and other times it didnt. Code coverage was
+95.65% which mostly meant that it didn't cover some if statements within my code which
+made sense. This is not optimal in deciding who's dominion.c code is correct because
+my tests just plays the game and doesn't nessisarily check for correct outputs which requires
+a lot more thought process in what the outputs should be with very limited test
+cases. 

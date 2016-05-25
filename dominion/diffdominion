@@ -1,17 +1,17 @@
 #!/bin/bash
 
 echo -n "Please Enter First Directory Path to Test the Code Against... "
-read dir1
+read directory1
 
 echo -n "Please Enter Second Directory Path to Test the Code Against..."
-read dir2
+read directory2
 
 echo -n "Please enter a number "
 read seed
 
 make clean
 
-cp ./* $directory1
+#cp ./* $directory1
 cd $directory1
 make clean
 make testdominion
@@ -19,7 +19,7 @@ make testdominion
 
 cd -
 
-cp ./* $directory2
+#cp ./* $directory2
 cd $directory2
 make clean
 make testdominion
@@ -27,7 +27,7 @@ make testdominion
 
 cd -
 
-diff -c $directory1/diff_one.txt $directory2/diff_two.txt > difFile
+diff -c $directory1/diff_one.txt $directory2/diff_two.txt > diffFile
 echo
 echo
 echo
