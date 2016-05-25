@@ -1,0 +1,40 @@
+#!/bin/bash
+
+echo -n "Please Enter First Directory Path to Test the Code Against... "
+read dir1
+
+echo -n "Please Enter Second Directory Path to Test the Code Against..."
+read dir2
+
+echo -n "Please enter a number "
+read seed
+
+make clean
+
+cp ./* $directory1
+cd $directory1
+make clean
+make testdominion
+./testdominion $seed > diff_one.txt
+
+cd -
+
+cp ./* $directory2
+cd $directory2
+make clean
+make testdominion
+./testdominion $seed > diff_two.txt
+
+cd -
+
+diff -c $directory1/diff_one.txt $directory2/diff_two.txt > difFile
+echo
+echo
+echo
+if [[ -s diffFile ]]; then
+   echo "TEST FAILED"
+else
+   echo "TEST SUCCESS"
+
+
+fi;
