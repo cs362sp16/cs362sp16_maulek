@@ -1,0 +1,13 @@
+I had a very limited understanding of dominion and my unit tests reflected that.
+Really the only thing they checked against was the return values of those function.
+If the return values didn't match then it would throw the error otherwise it would
+would say that the unit test failed. This is a poorly written unit test, now that I know
+the game a lot better and if I had a lot more time then I would go back through my
+unit tests and rewrite them. This time looking more into detail at how the function
+operates with respect to the game and make sure the cards are incrementing correctly as 
+well as the players hand, make sure the player is being moved correctly and each turn 
+is executed accordingly. Because the bug reports ask us to use our prewritten unit 
+test to find bugs in others code I was unable to throughouly complete this part of 
+the project. I looked through many students dominion.c files to see if an error/bug
+they wrote in their program was a bad return value my unit test would not be expecting.
+I havent found any and was unable to present 3 student files with different bugs.

@@ -1,0 +1,28 @@
+I compared the cards against the rules of the game. I couldn't use a debugger in this
+case because I didn't really understand what it was giving back to me. This is because
+it really didn't describe well how it was operating. So I used the link
+
+https://dominionstrategy.com/card-lists/dominion-card-list/
+
+And went through each card to review how each card was supposed to operate. 
+I came across gardens and it says that, 
+
+"Worth 1 Victory for every 10 cards in your deck (rounded down)."
+
+When I looked at the dominion.c code provided, all gardens does is return 0
+I believe that Gardens need some kind of if statment that checks for 10 cards 
+in the deck and if there are then it increases victory points. This is just extra
+behavior that influences which player wins and doesn't really cause a bug in the 
+code. So I believe it would be considered a low level bug.
+
+I believe steps 
+3. Quit thinking and look
+4. Devide and conquer
+5. Change one thing at a time
+6. Keep an audit trail 
+
+would apply in this case. This is because by Quit thinking and look, I could
+just look at the expected behavior without worrying about how dominion operated
+as a while. Divide and conquer helps because it allows me to look at one thing at a time
+Changing one thing at a time stops from huge crashes later on and keep an audit 
+trail helps so that you know what you did in case it did crash.
